@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+<div align="center">
+  <img width="200" src="https://cdn-icons-png.flaticon.com/512/816/816914.png">
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+<h1 align="center">💲Cryptocurrency</h1>
+<h3 align="center">✔ STATUS: Concluído ✔</h3>
 
-In the project directory, you can run:
+---
 
-### `npm start`
+<h2 align="center">📖Sobre</h2>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p align="center">Este projeto foi realizado para desenvolver melhor minha habilidades em consumo de API ultilizando React, o projeto consiste em um consumo de API que retorna informações sobre todas as criptomoedas como, valor em dolar, alteração nas ultimas 1h, 24h e 7 dias, etc... quase que em tempo real.</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+<h2 align="center">✔O site contém:</h2>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+✅ Consumo de API<br>
+✅ flexbox<br>
+### etc...
+---
 
-### `npm run build`
+<h2>Api utilizada <a target="_blank" href='https://www.coinlore.com/pt/cryptocurrency-data-api'>Coinlore</a></h2>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h2>Instalando</h2>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+npm install
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h2>E logo em seguida:</h2>
 
-### `npm run eject`
+```
+npm start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p>O projeto vai ser iniciado em <a target="_blank" href='http://localhost:3000'>http://localhost:3000</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<h2 align="center">🖥Preview</h2>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<img src="readme_img\view infocoin.png" alt="Previw desktop"></img>
+<br>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<h2> Veja o projeto em funcionamento <a target="_blank" href="">aqui</a>. 🧐</h2>
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<h2 align="center">🛠 Tecnologias</h2>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [React](https://pt-br.reactjs.org/)
+- [HTML](https://html.com/)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://www.javascript.com/)
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<h2 align="center">📝Licença</h2>
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">
+   Este repositório está sob licença MIT. Você pode ver o arquivo <a href="https://github.com/gabriell-c/Calculadora/blob/main/License"> LICENSE</a>
+   para mais detalhes. 😉
+</p>
