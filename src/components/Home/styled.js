@@ -93,5 +93,3 @@ export const Navbar = styled.nav`
         margin-left: .4em;
     }
 `
-
-// export const Container = styled.div``

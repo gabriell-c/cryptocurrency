@@ -11,7 +11,7 @@
 
 <h2 align="center">📖Sobre</h2>
 
-<p align="center">Este projeto foi realizado para desenvolver melhor minha habilidades em consumo de API ultilizando React, o projeto consiste em um consumo de API que retorna informações sobre todas as criptomoedas como, valor em dolar, alteração nas ultimas 1h, 24h e 7 dias, etc... quase que em tempo real.</p>
+<p align="center">Este projeto foi realizado para desenvolver melhor minhas habilidades em consumo de API ultilizando React, o projeto consiste em um consumo de API que retorna informações sobre todas as criptomoedas como, valor em dolar, alteração nas ultimas 1h, 24h e 7 dias, etc... quase que em tempo real.</p>
 
 ---
 
@@ -28,6 +28,10 @@
 
 ```
 npm install
+```
+ou
+```
+npm i
 ```
 
 <h2>E logo em seguida:</h2>
@@ -59,6 +63,6 @@ npm start
 <h2 align="center">📝Licença</h2>
 
 <p align="center">
-   Este repositório está sob licença MIT. Você pode ver o arquivo <a href="https://github.com/gabriell-c/Calculadora/blob/main/License"> LICENSE</a>
+   Este repositório está sob licença MIT. Você pode ver o arquivo <a href="https://github.com/gabriell-c/cryptocurrency/blob/main/License"> LICENSE</a>
    para mais detalhes. 😉
 </p>

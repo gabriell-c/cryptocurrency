@@ -3,7 +3,7 @@ import * as S from './styled'
 import CircularProgress from '@mui/material/CircularProgress';
 import CurrencyBitcoinIcon from '@mui/icons-material/CurrencyBitcoin';
 
-export default function index() {
+export default function Index() {
 
     const [crypto, setCrypto] = useState([])
     const [loading, setLoading] = useState(true)
@@ -16,8 +16,7 @@ export default function index() {
             setCrypto(datas.data)
         })
         setLoading(false)
-    }    
-    
+    }
     useEffect(()=>{
         callApi()
     })
