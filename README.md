@@ -47,7 +47,7 @@ npm start
 <img src="readme_img\view infocoin.png" alt="Previw desktop"></img>
 <br>
 
-<h2> Veja o projeto em funcionamento <a target="_blank" href="">aqui</a>. 🧐</h2>
+<h2> Veja o projeto em funcionamento <a target="_blank" href="https://infocoin-app.netlify.app/">aqui</a>. 🧐</h2>
 
 ---
 
