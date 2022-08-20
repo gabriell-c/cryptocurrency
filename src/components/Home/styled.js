@@ -3,7 +3,6 @@ import styled from 'styled-components'
 export const All = styled.div`
     display: flex;
     align-items: center;
-    overflow: hidden;
     justify-content: center;
     flex-direction: column;
     width: 100%;
@@ -11,7 +10,7 @@ export const All = styled.div`
 `
 
 export const Container = styled.div`
-    width: 90%;
+    width: 1300px;
     margin: 2em 0;
     padding: 1em;
     box-shadow: 2px 2px 3px #11111150;
@@ -46,7 +45,7 @@ export const HeaderItemNum = styled.div`
 `
 
 export const HeaderItem = styled.div`
-    width: 215px;
+    width: 250px;
     display: flex;
     font-weight: 600;
     align-items: center;

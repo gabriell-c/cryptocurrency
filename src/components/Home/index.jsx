@@ -21,6 +21,8 @@ export default function Index() {
         callApi()
     })
 
+    const orderInfo = crypto.sort(item=>item.name)
+
   return (
     <S.All>
         <S.Navbar>
@@ -50,7 +52,7 @@ export default function Index() {
                 {loading &&
                     <CircularProgress style={{margin: '0 auto'}}/>
                 }
-                {crypto.map((item, key)=>(
+                {orderInfo.map((item, key)=>(
                     <S.BodyItem key={key}>
                         <S.HeaderInfo1>
                             <S.HeaderItemNum>{item.rank}</S.HeaderItemNum>
